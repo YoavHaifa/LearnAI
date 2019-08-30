@@ -8,7 +8,7 @@ Created on Fri Aug 30 10:20:20 2019
 import torch
 
 
-if torch.cuda.device_count() > 1:
+if torch.cuda.device_count() > 0:
     print("Let's use", torch.cuda.device_count(), "GPUs!")
 else:
     print("no usable gpus")
