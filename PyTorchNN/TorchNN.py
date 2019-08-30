@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Aug 30 17:34:37 2019
-
+https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
 @author: yoavb
 """
 
